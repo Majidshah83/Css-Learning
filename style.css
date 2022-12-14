@@ -1,7 +1,13 @@
-.red{
-    background-color: red;
+*{
+    margin: 0;
+    padding: 0;
+}
+.red {
+    background-color: #00ff32;
     color: white;
+    height: 50%;
 }
 .blue{
-    color: blue;
+    color: wheat;
+    background-color: blue;
 }
